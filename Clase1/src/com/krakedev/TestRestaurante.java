@@ -6,7 +6,6 @@ public class TestRestaurante {
 		Restaurante rest1 = new Restaurante();
 		Restaurante rest2 = new Restaurante();
 		
-		
 		rest1.nombre = "Parrillada";
 		rest1.direccion = "Av. Unicornio";
 		rest1.calificacion = 4.8;
