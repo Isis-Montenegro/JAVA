@@ -38,6 +38,11 @@ public class TestCalculadora {
 		
 		System.out.println("Resultado Promediar: " + r5);
 		
+		
+		Calculadora m1 = new Calculadora();
+		
+		 m1.mostrarResultado();
+		
 	}
-
+	
 }
