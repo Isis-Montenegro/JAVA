@@ -32,6 +32,8 @@ public class TestRectangulo {
 		System.out.println("Resultado Perimetro 2: " + resultadoPerimetro2);
 		System.out.println("Resultado Area 2: " + resultadoArea2);
 		
+		//Cuadrado 1
+		
 		
 	
 	}
