@@ -6,7 +6,7 @@ public class Vehiculo {
 	private String modelo;
 	private String año;
 	private String color;
-	
+		
 	
 	public String getMarca() {
 		return marca;
@@ -30,6 +30,13 @@ public class Vehiculo {
 		return color;
 	}
 	public void setColor(String color) {
+		this.color = color;
+	}
+	
+	public Vehiculo(String marca, String modelo, String año, String color) {
+		this.marca = marca;
+		this.modelo = modelo;
+		this.año = año;
 		this.color = color;
 	}
 	
