@@ -1,0 +1,19 @@
+2026-11-25 00:04:42.907: [INFO] CurrentProfilePath: C:\krakedev\JAVA\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-25 00:04:42.907: [INFO] Profiles total count: 1
+2026-11-25 00:04:42.907: [INFO] Profile: name=Profile 1 path=C:\krakedev\JAVA\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=null
+2026-11-25 00:04:42.907: [INFO] LastUsedProfileDir: C:\krakedev\JAVA\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-25 00:04:42.907: [INFO] OnDoneLoading sync enabled: 0
+2026-11-25 00:04:42.907: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-25 00:04:42.907: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-25 00:04:42.907: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-25 00:04:47.679: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-25 00:04:53.069: [INFO] CurrentProfilePath: C:\krakedev\JAVA\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-25 00:04:53.069: [INFO] Profiles total count: 1
+2026-11-25 00:04:53.069: [INFO] Profile: name=Profile 1 path=C:\krakedev\JAVA\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-25T00:04:43.549Z
+2026-11-25 00:04:53.069: [INFO] LastUsedProfileDir: C:\krakedev\JAVA\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-25 00:04:53.069: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\krakedev\JAVA\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-25T00:04:43.549Z
+2026-11-25 00:04:53.069: [INFO] OnDoneLoading sync enabled: 0
+2026-11-25 00:04:53.069: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-25 00:04:53.069: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-25 00:04:53.069: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-25 00:05:02.100: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
